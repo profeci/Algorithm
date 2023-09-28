@@ -1,0 +1,2 @@
+# Algorithm
+Competetive programming algorithm
